@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# 运行时产物（每次刷题生成）
+*.json
+!package.json
+fill*.js
+verify.js
+after_*.png
+*.png
+imgs/
+page_dump.txt
+questions.json
+answers.json
+
+# 系统
+Thumbs.db
+.DS_Store
